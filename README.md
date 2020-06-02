@@ -1,3 +1,5 @@
+NOT ORIGINAL. TAKEN FROM FORK OF ORIGINAL WHICH CAN BE FOUND HERE
+https://github.com/ldo/blender_spaceship_generator
 # Spaceship Generator
 
 A Blender script to procedurally generate 3D spaceships from a random seed.
